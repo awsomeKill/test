@@ -1,2 +1,2 @@
 # test
-test a project for github
+这只是一个测试 让我瞧瞧这个传说的傻子代码仓库
